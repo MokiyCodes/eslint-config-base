@@ -1,8 +1,7 @@
+'use strict';
 // eslint-disable-next-line no-undef
 module.exports = {
-  'env': {
-    'es2021': true,
-  },
+  'env': { 'es2021': true, },
   'extends': [],
   'plugins': [],
   'rules': {
