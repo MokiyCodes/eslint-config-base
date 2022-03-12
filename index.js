@@ -8,11 +8,6 @@ module.exports = {
   'extends': [
     'eslint:recommended',
   ],
-  'parser': '@typescript-eslint/parser',
-  'parserOptions': {
-    'ecmaVersion': 'latest',
-    'sourceType': 'module',
-  },
   'plugins': [],
   'rules': {
     // indent, quotes and semi (base config)
