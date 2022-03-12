@@ -3,9 +3,7 @@ module.exports = {
   'env': {
     'es2021': true,
   },
-  'extends': [
-    'eslint:recommended',
-  ],
+  'extends': [],
   'plugins': [],
   'rules': {
     // indent, quotes and semi (base config)
