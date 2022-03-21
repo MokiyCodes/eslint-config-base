@@ -64,7 +64,7 @@ module.exports = {
       2, 5
     ],
     'no-eval': [2],
-    //'one-var': [1],
+    // 'one-var': [1],
     'quote-props': [
       1, 'always'
     ],
