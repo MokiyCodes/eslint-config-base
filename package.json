@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/MokiyCodes/eslint-config#readme",
   "devDependencies": {
-    "eslint": "8.12.0"
+    "eslint": "8.13.0"
   },
   "peerDependencies": {
-    "eslint": "^8.12.0"
+    "eslint": "^8.13.0"
   },
   "private": false
 }
